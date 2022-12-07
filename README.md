@@ -1,1 +1,1 @@
-# pAequor-organism is a small scale project 
+# pAequor-organism is a small scale project.
